@@ -264,8 +264,12 @@ textarea {
 
 /* CUSTOM STYLES */
 body {
-  background: #f3f3f3;
-  color: #303030;
+  /* background: #f3f3f3; */
+  background-image: url("/img/bg_sheeps.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  color: #fff;
 }
 
 .container {
